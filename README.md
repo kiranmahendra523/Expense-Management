@@ -1,0 +1,5 @@
+- Add income and expense transactions
+- Categorize by subcategories (e.g., salary, rent, food)
+- Load transactions from a `.csv` file
+- View monthly summaries with totals and breakdowns
+- Simple and intuitive console interface
